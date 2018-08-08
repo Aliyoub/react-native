@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954110031556",
+    "firebase_url": "https://react-b4394.firebaseio.com",
+    "project_id": "react-b4394",
+    "storage_bucket": "react-b4394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954110031556:android:9e3f3af6f89eb918",
+        "android_client_info": {
+          "package_name": "com.tutorialproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954110031556-7rpicqnjum0luagnckg5njspc4csp4c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iqkF091IVCX1_ufdrWjyopRTBqFjq84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
